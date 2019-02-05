@@ -1,1 +1,2 @@
-# Behavioral-Neuroscience\n My note for PSYC210 Behavioral Neuroscience
+# Behavioral-Neuroscience
+## My note for PSYC210 Behavioral Neuroscience
