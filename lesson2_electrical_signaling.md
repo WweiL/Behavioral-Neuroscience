@@ -1,97 +1,111 @@
-# Cells of the nervous system
-Two main cell types: neurons and glia ( at least 3 types )
+# Synapse
+THe gap between the presynaptic terminal(terminal button of one neuron) and the postsynaptic spine(the dandrite of the other neuron)
+#### Three parts
+##### 1. Presynaptic membrane
+ - sends the signal(release neurotransmitter)
+ - vesicles
+###### The process
+1. Action potential reaches synaptic terminal
+2. open voltage-gated `calcuum` channels, Ca2+ enters the terminal
+3. Ca2+ causes synaptic vesicles to bind to presynaptic membrane
+4. Vesicles burst open and release contents
+##### 2. Postsynaptic membrane
+###### The process
+1. Neurotransmitter diffuses across cleft and binds to receptors
+2. Neurotransmitter becomses unbound
+ - reuptake(recycle) into vesicles
+ - Enzymatic degradation(降解)
+
+##### Receptors
+- __Type 1. Ionotropic receptor__
+(lingand-gated ion channel; fast)
+neuron transmitter binds -- channel opens -- ions flows in
+3 types: K+, Na+, Cl- => alter the __local membrane potential__
+- __Type 2. Metabotropic receptor / G protein-coupled receptor__
+slow
+neurotransmitter binds -- G protein activated -- G protein moves to adjancent ion channel -- ion channel opens
+There could be many types of G proteins -> varieties
+The complex of the neuro system
+
+##### Postsynaptic potentials
+A neurotransmitter binds to the receptor, causing ions to move into/out of neuron
+__Excitatory Postsynaptic potentials (EPSP)__
+`depolarization`, toward threshold of excitation
+
+__Inhibitory Postsynaptic potentials (IPSP)__
+`hyperpolarization`, away from threshold of excitation
+
+In reality, neurons is constantly receiving input from multiple neurons. It has to `integrate` these signals.
+- net effect of EPSPs and IPSPs
+- closer to axon hillock -> greater power
+e.g. 12 EPSPs + 12 IPSPs -> cancelled out, no action
+
+---
+
+### Neurotransmitter
+__nuclei__: Neurons that are similar in function that can be clusered into groups
+__projections__: cell body may be located in one area and send axons to another. These axons are projections.
+
+Neurotransmitter / hormones
+some neurontransmitters can be hormones
+short distance / long distance
+
+When referring to a neurotransmitter system, '-ergic' is added
+Dopamine -> Dopaminergic (systems / cells)
+Acetylcholine -> cholinergic
+
+1. __Amino Acids__
+- Glutamate
+    Excitatory -> increase cell activity
+    released throughout the brain
+- GABA
+   Inhibitory
+    released everywhere in the brain
+
+Too much excitation: `cell death`, `seizures`
+
+2. __Acetylchcholine(ACh)__
+`Primary neurotransmitter secreted by axons of the PNS`
+`Muscle contraction`, `movement`, `attention`, `learning`, `memory`
+Several areas contains AChs:
+bu kao: (Two clusters: botton front of the brain, set in the brainstem
+send projections/axons to hippocampus => important for learning & memory
+to cortex -> important for attention)
+
+3. __Dopamine(DA)__
+Three major areas contains DA neurons:
+- Nigrostriatal
+ from: __substantia nigra__ (black substance)
+goto: __striatum__ (another word for basal ganglia)
+- Mesolimbic
+from: __mesencephalon__ (in the brain stem)
+goto: __limbic system__
+- Mesocortical
+from: __mesencephalon__ (in the brain stem)
+goto: __cortex__
+attention, problem solving, executative function
+first part: where cell part is located, second part: where those axons go( where DA is released to )
+
+`movement, planning, problem solving, reinforcement, attention`
+Degeneration of DA neurons in a specific brain region --> `Parkinson's disease`
+
+4. __Norepinephrine(NE)__
+Cell bodies in `brainstem`
+attention, arousal, sleep
+neurotransmitter && hormone
+
+5. __Serotonin(5-HT)__
+Cell bodies in `brainstem`
+Fundtion: `mood, feeding, sleep, arousal, pain`
+__Antidepressant medications typically increase levels of serotonin__
+
+---
+### Endogenous(produced or released within the body) __opioids__（鸦片）
+- play a role in reinforcement and pain
+- Receptors found in: `limbic system`, `thalamus`, `brainstem`
+- Examples: endorphin, dynorphin
 
 
-### Neurons
-- Dendrite (tree) - reveive information(chemical) from other neurons
-- Soma (cell body) - basic cell machienary
-- Axon (long cable) -
-- Axon hillock (small connection part between Axon and Soma)
-- Terminal Buttons(connects to other neurons with dendrites of other neurons)
-- Myelin sheath (covers axon)
-
-corpus colleusum (axons covered by myelin sheath)
-
-# Imformation Processing
-Electrical signaling and Chemical Signaling
-### Electrical signaling
-- Action potentials
-- Excitation
-- Inhibition
-
-### The Cell Membrane
-Exacellur(outside of neuron)/intracelluar(within neuron) contains ions
-K+(potassium), Na+(sodium), Cl-
-
-Diffusion(chemicals move from higher concentration to lower concentration)
-
-Electrostatic pressure
-
-Contains `ion` channels
-- Voltage-gated (electrical)
-- Ligand-gated (chemical)
-
-#### The Resting Potential
-Outside of the cell: more Na+ and Cl-
-Inside: More K+
-
-The `inside` of a neuron is `negatively` charged relative to the outside
-`Resting membrane potential = -50 ~ -80 mV `
-
-#### The Action Potential
-begins at the `axon hillock`
-Travels down the axon
-When reaches the terminal buttons, the action potential triggers the release of neurontransmitters
-
-##### The process:
-1. Na+ channels opens, Na+ enters the cell
-2. K+ channels open, K+ leaves
-3. Na+ channels becones `refractory`(can't open), no more Na+ enters
-4. K+ continues leaving cell, causing membrane potential to return to resting level
-5. K+ channels close, Na+ channels reset
-6. Extra K+ outside diffuses away
-
-##### Properties
-1. All-or-none: the action potential, once initiated, always occurs
-2. Always the same: the action potential is always the `magnitude/size` and `shape`
-(varies a littble bit from neurons and neurons), (same: epalsed time, magnitude)
-Reason: The action potential is `regenerated at each point along the axon`
-        like a wave, swing a rope
-##### Regeneration of the action potential
-Na+ entries the cell body and diffuses, depolarizing adjanct parts.
-
-Na+ to the terminal button, back to the cell body, kick off the action potential, Na+ channel become inactive for a short time
-=> does not move backwords
-
-##### Refractory Peroids(inactive time)
-1. Absolute refractory period (action potential `cannot` occur)
-1 millisecond
-happens because Na+ channels are closed
-Neuron `cannot` regenerate another action potential => prevents from crazily generating action potential, in the graph, goes up to infinity
-Result: maximum of 1000 action potentials per second
-About at period 3
-
-2. Relative refractory period
-3-4 ms
-Hard to generate, but not impossible
-About period 5
-
-##### Conduction Velocity
-varies, and is affected by two factors:
-1. Axon thickness (up tp 35 m/s)
-thicker -> faster because there are more ions
-2. Myelination
-Myelin also speeds up the conduction
-
-#### Saltatory Conduction in Myelinated Axons
-4x faster than unmyelinated axons
-Axons insulated by `myelin`:
-- Schwann cells in the PNS
-- Oligodendrocytes in the CNS
-##### Saltatory Conduction
-Current flows to the next `Node of Ranvier` so the action potential 'jumps' from node to the node.
-
-The action potential degrateds a little(but it is still above threshold) underneath the myelin. `At the next Node, it is regenerated.`
-
-Action potential happens at the gap, and unerneath the myelin it does not happen at all(Na+ channels never open) and Na+ just diffuses.
---
+### Endogeneous cannabinoids (大麻)
+- Receptors found throughout the brain
+- Act as __retrograde messengers__: released and bind to presynaptic receptors and affect the presynaptic neuron

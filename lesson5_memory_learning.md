@@ -89,3 +89,13 @@ Requires slight depolarization to remove the Mg2+ before opening the Ca2+ channe
 
 Some important properties of ltp(not in test)
 
+
+
+#LTP (long-term protentiation) (1 question)
+long-term increase in the excitability of a neuron caused by repeated high-frequency activation - bigger EPSP
+
+Requires glutamate(AMPA and NMDA receptors)
+- NMDA receptores require that the neuron be slighly depolarized (from glutamate binding to AMPA receptors)
+Requires Ca2+
+
+Involves the insertion of AMPA receptors into the synapse
