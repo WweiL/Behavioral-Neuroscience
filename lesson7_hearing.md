@@ -1,4 +1,4 @@
-# Hearing
+\1;95;0c# Hearing
 ## Sound
  - vibration of air molecules
  - we hear frequencies between 20 Hz and 20,000 Hz
@@ -54,5 +54,4 @@ Cues:
 - Broca's area: speech production(not part of the auditory cotex)
     damage(__expressive aphasia__): can read, listen, but can't say
 
-
-
+Cochlear Implant(picture not imp)
