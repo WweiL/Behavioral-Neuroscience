@@ -2,7 +2,7 @@
 
 ## Primary Viusual Pathways
 1. Retina ->
-2. Lateral geniculate nucleus(thalamus) -> 
+2. Lateral geniculate nucleus(thalamus) ->
 3. primary visual cortex(occipital lobe)
 
 ## Structure of the Eye
@@ -55,13 +55,13 @@ Nasal side(near nose)
 Temporal side(opposite)
 
 ## The two types of Retinal Ganglion Cells
-- Parvocelluar retinal ganglion cell (P retinal ganglion cell) 
+- Parvocelluar retinal ganglion cell (P retinal ganglion cell)
  1. Receive input from cones
  2. sensitive to color
  3. respond to color difference
  4. input from cones in fovea
  5. `small` receptive field
-- Magnocelluar retinal ganglion cell (M retinal ganglion cell) 
+- Magnocelluar retinal ganglion cell (M retinal ganglion cell)
  1. Receive input from rods
  2. sensitive to black and white
  3. respond to light/dark difference
@@ -109,7 +109,7 @@ LGN --> primary visual cortex(at the posterior tip of the occipital cotex)
 ### Receptive field in Primary Visual Cortex
 #### Simple receptive field
         off-center, on-surround
-        respond to specific orienation 
+        respond to specific orienation
 #### Complex Receptive field
         in a larger receptive field -- motion detection÷
 
@@ -122,7 +122,7 @@ area: not imp
 ### Ventral pathway damage(what)
  - visual-form agnosia(can't recognize shape)
  - Prosopagnosia(inability to recognize face)
- 
+
 ### Dorsal pathway damage(where)
 Unable to use visual cue to guide `motor action`
 Can describe orienataion and shape of objects but cannot locate it. (like put an envenlope into  a mailbox)
@@ -130,3 +130,10 @@ Can describe orienataion and shape of objects but cannot locate it. (like put an
 ### Hemifield Neglect
 Neglect objects on one side of the body.
 The side opposite to the damaged parietal lesion.
+
+### Visual Illusion
+### Focusing Visual Attention
+#### Superior Colliculus -- Saccades
+#### Smooth Pursuit Eye Movement
+    Cortex --> Pons --> Cerebellum --> Eye muscles
+    Aolcohol can easily affect the cerebellum, eliminating the `smooth pursuit` and only `saccadic` eye movements are possible.
