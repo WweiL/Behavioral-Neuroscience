@@ -94,7 +94,7 @@ left hemisphere responds to right visual field
 right hemisphere responds to left visual field
 Nasal projection of left eye && Temporal projection of right --> right LGN
 
-Only fibers from Nasal projection cross. (at `Opric Chiasm`)
+Only fibers from Nasal projection cross. (at `Optic Chiasm`)
 temporal --> do not cross
 
     Left thalamus and visual cortex respond to light in the right visual field.
