@@ -3,13 +3,13 @@ Definition: Physsiological reaction caused by the __perception__ of aversive or 
  - necessary for survival
  - adaptive( in some cases, maladaptive)
  - goal: restore homeostasis
- 
+
 ## Physiology:
 (barin)CNS && (bofy)PNS
 Perception of a stressor
 Different stressors activate different networks
 
-### Physical stressors: 
+### Physical stressors:
 stimuli that produce actural disturbances of physiological states.
 injury, infection
  - Processed by `brainstem` and `hypythalamic` regions
@@ -24,7 +24,7 @@ exams, incoming disasters, seeing predators
 ## Types of stress
  - Acute(short-term)
  requires immediate psychological adaptations
- e.g.: 
+ e.g.:
     being chased by a line
     taking an exam
 ## Chronic(long-term)
@@ -41,7 +41,7 @@ exams, incoming disasters, seeing predators
  ### Hypothalamic pituitary adrenal(HPA) axis (comes second)
  Hormonal response
  slower in response (than SAM) but last longer
- 
+
 #### HPA Axis more detail:
 coordinates the release of stress hormones
 1. The `Hypothalamus` releases __corticortropin releasing hormone(CRH)__, which travels to the `Pituiary` gland
@@ -59,7 +59,7 @@ Glucocorticoid Receptors are found throughout the brain
  - hyppthalamus
  - amygdala
  - cortex
- 
+
 can regulate gene expression
 can affect many brain areas and brain functions
 
@@ -78,7 +78,7 @@ must be present __shortly after training__
 - Epinephrine
 - Norepinephrine
 - Cortisol
-#### How: 
+#### How:
 1. Enhanves function of the hippocampus and increase consolidation
 2. increase the release of __glucose__ into the __bloodstream__, which enhance memory            
 
@@ -100,7 +100,7 @@ Enhances long-term potentiation -> enhance memory
 Impairs long-term potentiation -> impairs memory
 
 ## Neurobiology of chronic stress:
-Supression of 
+Supression of
  - Synaptic transmission
  - Long-term potentiation
  - Neurogensis(born of new neurons)
@@ -116,8 +116,11 @@ Increase in glutamate(too much glutamate kills cells), oxidative stress, inflama
 ## Stress && Immune System
 Impair immune function:
  Increased risk of infection during exams in medical students
- 
 
 
-Questions: 
-1. From Hypothalamus? 
+
+
+Questions:
+1. From Hypothalamus?
+
+2. what is not involved in depression? GABA
